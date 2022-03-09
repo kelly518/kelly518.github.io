@@ -14,7 +14,7 @@ h1{
 
 .location-item ul li{
     list-style: none;
-    padding: 3px 0;
+    padding: 4px 0;
     color: #65785E;
 }
 
@@ -24,20 +24,27 @@ h2{
 
 .time-item ul li{
     list-style: none;
-    padding: 3px 0;
+    padding: 4px 0;
     color: #65785E;
 }
 
 
 .money-item ul li{
     list-style: none;
-    padding: 3px 0;
+    padding: 4px 0;
     color: #65785E;
 }
 
 
 .food-item ul li{
-    list-style: none;
-    padding: 3px 0;
+    list-style: decimal;
+    padding: 4px 0;
+    color: #65785E;
+}
+
+
+.bring-item ul li{
+    list-style:square;
+    padding: 4px 0;
     color: #65785E;
 }
